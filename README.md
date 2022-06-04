@@ -99,12 +99,14 @@ Heroku Buildpack
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
 
-### Github Stats 
+# Github Stats #
 
-![github card](https://github-readme-stats.vercel.app/api?username=Kujikibotz&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api?username=goos7&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kujikibotz&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goos7&theme=monokai)
 
 # Hargai Kami Dengan Menambahkan Kredit ( We ) 
 
-~ Selamat Memakai Guys~
+~ Jipok Ooo Gak Popo Aku ~
+
+[©kujikibotz 2022](https://kujikibotz/badge/github/quiec/whatsAlfa)](https://kujikibotz/@tioclkp02/ScanQr-botwea-10#runing.txt)

@@ -81,20 +81,6 @@ Buka halaman HEROKU => https://heroku.com
  LIAT YT AJA,GW LUPA SOALNYA
 ( JAGAN LUPA BUILDPACK NYA )
 ```
-## settings 
-Edit Nomor Owner DLL `'./config.js'`
-```ts 
-OwnerNumber = ['wa.me/6287837756547']
-
-Thumbnail
-global.image = 'https://telegra.ph/file/4f4a5a3cde6a98a96da79.jpg'//change the image
-global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
-global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
-global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
-```
----------
-
-Simple WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlyaaXd/Haruno-Botz)
 
@@ -113,25 +99,11 @@ Heroku Buildpack
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
 
-
-# THANKS TO 
- [`Baileys`](https://github.com/adiwajshing/Baileys)
-
- [`AlyaXzy`](https://wa.me/6289505165400)
-
- [`BOTCAHX`](https://wa.me/6282221792667)
-
- [`ZIFABOTZ`](https://wa.me/6285828764046)
-
- [`KujikiBotz`](https://wa.me/6287837756547)
-
-
-
 ### Github Stats 
 
-![github card](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api?username=Kujikibotz&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Botynyakamu&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kujikibotz&theme=monokai)
 
 # Hargai Kami Dengan Menambahkan Kredit ( We ) 
 

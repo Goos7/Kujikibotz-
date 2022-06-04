@@ -127,24 +127,12 @@ Heroku Buildpack
 
 
 
-[![BOTCAHX](https://github.com/BOTCAX.png?size=100)](https://github.com/BOTCAHX) | [![ALYA](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![ZIFABOTZ](https://github.com/Botynyakamu.png?size=100)](https://github.com/botynyakamu)
-----|----|----
-[BOTCAHX](https://github.com/BOTCAX) | [ALYA](https://github.com/AlyaaXd) | [ZIFABOTZ](https://github.com/Botynyakamu)| [Luc](https://github.com/siegrin)
- Penulis / Pencipta | Penulis / pencipta | recode | membantu
-
-------
- 
 ### Github Stats 
 
 ![github card](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Botynyakamu&theme=monokai)
 
-### Repo Stats 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zifabotz-V5&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=Rzy.botz-M1&theme=dark)
-
-# Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
+# Hargai Kami Dengan Menambahkan Kredit ( We ) 
 
 ~ Selamat Memakai Guys~

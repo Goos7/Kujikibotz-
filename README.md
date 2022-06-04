@@ -108,5 +108,3 @@ Heroku Buildpack
 # Hargai Kami Dengan Menambahkan Kredit ( We ) 
 
 ~ Jipok Ooo Gak Popo Aku ~
-
-[©kujikibotz 2022](https://kujikibotz/badge/github/quiec/whatsAlfa)](https://kujikibotz/@tioclkp02/ScanQr-botwea-10#runing.txt)

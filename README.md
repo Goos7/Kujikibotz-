@@ -43,24 +43,7 @@
 > node run.js
 ```
 
-## Run Heroku
-```bash
-â–¸ Ketik di [CHROME]
-https://github.com ( BUAT AKUN GITHUB DULU ) => sesuaikan Imail anda
-https://heroku.com ( BUAT AKUN HEROKU DULU ) => sesuaikan Imail anda
-
-â–¸ Untuk Sc nya cari sendiri, atau pakai sc ku ( SC KU SERING MENAMBAH FITUR )
-
-â–¸ scan kode untuk mengambil session
-1) Buka yt => Cara mengambil session tanpa termux atau bisa pakai replit di bawah
-2) biasanya link untuk scan ada di pin komen
-3) trus pakai mode desktop
-4) ada di atas tombol yg hijau klik aja
-5) terus tunggu beberapa menit sampai kode QR keluar
-6) kalau dah keluar scan aja
-7) session di kirim di WhatsApp centang ijo,kalian salin aja
-
-â–¸ Github
+## Github ##
 8) kalau SC nya sudah ketemu kalian klik aja link SC nya
 9) pakai mode desktop
 10) trus fork di atas pojok kanan
@@ -76,10 +59,9 @@ https://heroku.com ( BUAT AKUN HEROKU DULU ) => sesuaikan Imail anda
 20) klik tombol home 3 kali sampai kembali ke halaman utama github
 21) edit aja yang lain"nya sendiri ( JANGAN SAMPAI ERORR )
 
-â–¸ Penginstal :
+## Penginstal :
 Buka halaman HEROKU => https://heroku.com
  LIAT YT AJA,GW LUPA SOALNYA
-( JAGAN LUPA BUILDPACK NYA )
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlyaaXd/Haruno-Botz)

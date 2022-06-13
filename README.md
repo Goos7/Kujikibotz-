@@ -43,16 +43,12 @@
 > node run.js
 ```
 
-## Penginstal :
-Buka halaman HEROKU => https://heroku.com
- LIAT YT AJA,GW LUPA SOALNYA
-```
+
+Simpel WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlyaaXd/Haruno-Botz)
 
 
-
-# Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-10#runing.txt)
 
